@@ -1,0 +1,3 @@
+[2025-07-28 21:27:03] Performed backup on sample.txt
+[2025-07-28 22:38:32] Performed restore on sample.txt
+[2025-07-28 22:42:10] Deleted file data.txt
