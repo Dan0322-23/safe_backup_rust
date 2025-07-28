@@ -1,4 +1,4 @@
-# Week 3 - Secure Coding Practical Submission  
+# Secure Coding Practical Submission  
 **Student:** Daniel Felipe Rodriguez Avila  
 **Project Name:** safe_backup  
 **GitHub Repo:** [https://github.com/Dan0322-23/safe_backup_rust](https://github.com/Dan0322-23/safe_backup_rust)  
